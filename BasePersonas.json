@@ -1,4 +1,4 @@
-    { "codigo": "P011", "nombres": "Sergio Andrés", "apellidos": "Morales Vaca", "edad": 29, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150201" },
+[   { "codigo": "P011", "nombres": "Sergio Andrés", "apellidos": "Morales Vaca", "edad": 29, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150201" },
     { "codigo": "P012", "nombres": "Claudia Sofía", "apellidos": "Pinedo Ruiz", "edad": 35, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150202" },
     { "codigo": "P013", "nombres": "Javier Enrique", "apellidos": "Ortega Blanco", "edad": 42, "sexo": "M", "estado_civil": "Divorciado", "ubigeo": "150203" },
     { "codigo": "P014", "nombres": "Natalia Beatriz", "apellidos": "Méndez Luna", "edad": 25, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150204" },
@@ -48,3 +48,4 @@
     { "codigo": "P058", "nombres": "Gabriela Isabel", "apellidos": "Coronel Saenz", "edad": 31, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150248" },
     { "codigo": "P059", "nombres": "Iván Marcelo", "apellidos": "Delgado Arce", "edad": 44, "sexo": "M", "estado_civil": "Divorciado", "ubigeo": "150249" },
     { "codigo": "P060", "nombres": "Paula Valentina", "apellidos": "Aguirre Sosa", "edad": 29, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150250" }
+    ]
