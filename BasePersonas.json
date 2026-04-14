@@ -1,51 +1,54 @@
-Código,Nombres,Apellido,Edad,Sexo,Estado Civil,Ubigeo
-P011,Sergio Andrés,Morales Vaca,29,M,Soltero,150201
-P012,Claudia Sofía,Pinedo Ruiz,35,F,Casada,150202
-P013,Javier Enrique,Ortega Blanco,42,M,Divorciado,150203
-P014,Natalia Beatriz,Méndez Luna,25,F,Soltera,150204
-P015,Ricardo Manuel,Solís Vargas,51,M,Casado,150205
-P016,Valeria Inés,Castro Ríos,30,F,Soltera,150206
-P017,Gabriel Omar,Farfán Silva,37,M,Viudo,150207
-P018,Andrea Lucía,Espinoza Paz,23,F,Soltera,150208
-P019,Marco Antonio,Benavides Gil,48,M,Casado,150209
-P020,Elena Martha,Zegarra Polo,33,F,Divorciada,150210
-P021,Fernando José,Rivas Guzmán,28,M,Soltero,150211
-P022,Diana Milagros,Tello Paredes,31,F,Casada,150212
-P023,Roberto Carlos,Núñez Flores,45,M,Divorciado,150213
-P024,Carla Ivonne,Mendoza Rey,26,F,Soltera,150214
-P025,Hugo Leonardo,Salazar Vera,39,M,Casado,150215
-P026,Mónica del Pilar,Guerrero Ortiz,34,F,Soltera,150216
-P027,Pedro Pablo,Villalta Jara,40,M,Casado,150217
-P028,Fiorella Edith,Bustos Caro,27,F,Soltera,150218
-P029,Luis Alfredo,Campos Soria,55,M,Viudo,150219
-P030,Silvia Raquel,Rojas Dante,32,F,Casada,150220
-P031,Christian David,Ponce León,36,M,Soltero,150221
-P032,Yolanda María,Valdivia Cruz,44,F,Divorciada,150222
-P033,Oscar Eduardo,Mejía Santos,30,M,Soltero,150223
-P034,Jessica Lorena,Miranda Gil,29,F,Casada,150224
-P035,Raúl Esteban,Cárdenas Paz,41,M,Casado,150225
-P036,Bianca Estela,Aranda Soler,24,F,Soltera,150226
-P037,Héctor Fabio,Galván Loayza,53,M,Casado,150227
-P038,Roxana Maribel,Ibáñez Torres,38,F,Viuda,150228
-P039,Manuel Ignacio,Paredes Cano,47,M,Divorciado,150229
-P040,Katherine Liz,Sucre Medina,26,F,Soltera,150230
-P041,Guillermo Elías,Cordero Alba,33,M,Soltero,150231
-P042,Sandra Lucero,Benítez Olmos,37,F,Casada,150232
-P043,Felipe Arturo,Bravo Guerra,22,M,Soltero,150233
-P044,Verónica Inés,Duarte Montes,49,F,Divorciada,150234
-P045,Julio César,Beltrán Risco,35,M,Casado,150235
-P046,Mabel Liliana,Acosta Dávila,28,F,Soltera,150236
-P047,Rodrigo Alejandro,Cisneros Vega,31,M,Casado,150237
-P048,Tatiana Yanet,Peralta San,43,F,Viuda,150238
-P049,Gonzalo Andrés,Lara Quiroz,30,M,Soltero,150239
-P050,Patricia Noemí,Salas Orozco,25,F,Soltera,150240
-P051,Álvaro Ismael,Hurtado Ríos,46,M,Casado,150241
-P052,Carmen Gloria,Robles Ugarte,52,F,Divorciada,150242
-P053,Víctor Raúl,Tapia Gamarra,27,M,Soltero,150243
-P054,Cecilia Beatriz,Marín Lozano,34,F,Casada,150244
-P055,Enrique Alberto,Barrientos Coa,38,M,Casado,150245
-P056,Lucía Fernanda,Carrasco Lima,21,F,Soltera,150246
-P057,Saúl Eduardo,Pacheco Alva,40,M,Soltero,150247
-P058,Gabriela Isabel,Coronel Saenz,31,F,Casada,150248
-P059,Iván Marcelo,Delgado Arce,44,M,Divorciado,150249
-P060,Paula Valentina,Aguirre Sosa,29,F,Soltera,150250
+{
+  "personas": [
+    { "codigo": "P011", "nombres": "Sergio Andrés", "apellidos": "Morales Vaca", "edad": 29, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150201" },
+    { "codigo": "P012", "nombres": "Claudia Sofía", "apellidos": "Pinedo Ruiz", "edad": 35, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150202" },
+    { "codigo": "P013", "nombres": "Javier Enrique", "apellidos": "Ortega Blanco", "edad": 42, "sexo": "M", "estado_civil": "Divorciado", "ubigeo": "150203" },
+    { "codigo": "P014", "nombres": "Natalia Beatriz", "apellidos": "Méndez Luna", "edad": 25, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150204" },
+    { "codigo": "P015", "nombres": "Ricardo Manuel", "apellidos": "Solís Vargas", "edad": 51, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150205" },
+    { "codigo": "P016", "nombres": "Valeria Inés", "apellidos": "Castro Ríos", "edad": 30, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150206" },
+    { "codigo": "P017", "nombres": "Gabriel Omar", "apellidos": "Farfán Silva", "edad": 37, "sexo": "M", "estado_civil": "Viudo", "ubigeo": "150207" },
+    { "codigo": "P018", "nombres": "Andrea Lucía", "apellidos": "Espinoza Paz", "edad": 23, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150208" },
+    { "codigo": "P019", "nombres": "Marco Antonio", "apellidos": "Benavides Gil", "edad": 48, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150209" },
+    { "codigo": "P020", "nombres": "Elena Martha", "apellidos": "Zegarra Polo", "edad": 33, "sexo": "F", "estado_civil": "Divorciada", "ubigeo": "150210" },
+    { "codigo": "P021", "nombres": "Fernando José", "apellidos": "Rivas Guzmán", "edad": 28, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150211" },
+    { "codigo": "P022", "nombres": "Diana Milagros", "apellidos": "Tello Paredes", "edad": 31, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150212" },
+    { "codigo": "P023", "nombres": "Roberto Carlos", "apellidos": "Núñez Flores", "edad": 45, "sexo": "M", "estado_civil": "Divorciado", "ubigeo": "150213" },
+    { "codigo": "P024", "nombres": "Carla Ivonne", "apellidos": "Mendoza Rey", "edad": 26, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150214" },
+    { "codigo": "P025", "nombres": "Hugo Leonardo", "apellidos": "Salazar Vera", "edad": 39, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150215" },
+    { "codigo": "P026", "nombres": "Mónica del Pilar", "apellidos": "Guerrero Ortiz", "edad": 34, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150216" },
+    { "codigo": "P027", "nombres": "Pedro Pablo", "apellidos": "Villalta Jara", "edad": 40, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150217" },
+    { "codigo": "P028", "nombres": "Fiorella Edith", "apellidos": "Bustos Caro", "edad": 27, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150218" },
+    { "codigo": "P029", "nombres": "Luis Alfredo", "apellidos": "Campos Soria", "edad": 55, "sexo": "M", "estado_civil": "Viudo", "ubigeo": "150219" },
+    { "codigo": "P030", "nombres": "Silvia Raquel", "apellidos": "Rojas Dante", "edad": 32, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150220" },
+    { "codigo": "P031", "nombres": "Christian David", "apellidos": "Ponce León", "edad": 36, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150221" },
+    { "codigo": "P032", "nombres": "Yolanda María", "apellidos": "Valdivia Cruz", "edad": 44, "sexo": "F", "estado_civil": "Divorciada", "ubigeo": "150222" },
+    { "codigo": "P033", "nombres": "Oscar Eduardo", "apellidos": "Mejía Santos", "edad": 30, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150223" },
+    { "codigo": "P034", "nombres": "Jessica Lorena", "apellidos": "Miranda Gil", "edad": 29, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150224" },
+    { "codigo": "P035", "nombres": "Raúl Esteban", "apellidos": "Cárdenas Paz", "edad": 41, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150225" },
+    { "codigo": "P036", "nombres": "Bianca Estela", "apellidos": "Aranda Soler", "edad": 24, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150226" },
+    { "codigo": "P037", "nombres": "Héctor Fabio", "apellidos": "Galván Loayza", "edad": 53, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150227" },
+    { "codigo": "P038", "nombres": "Roxana Maribel", "apellidos": "Ibáñez Torres", "edad": 38, "sexo": "F", "estado_civil": "Viuda", "ubigeo": "150228" },
+    { "codigo": "P039", "nombres": "Manuel Ignacio", "apellidos": "Paredes Cano", "edad": 47, "sexo": "M", "estado_civil": "Divorciado", "ubigeo": "150229" },
+    { "codigo": "P040", "nombres": "Katherine Liz", "apellidos": "Sucre Medina", "edad": 26, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150230" },
+    { "codigo": "P041", "nombres": "Guillermo Elías", "apellidos": "Cordero Alba", "edad": 33, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150231" },
+    { "codigo": "P042", "nombres": "Sandra Lucero", "apellidos": "Benítez Olmos", "edad": 37, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150232" },
+    { "codigo": "P043", "nombres": "Felipe Arturo", "apellidos": "Bravo Guerra", "edad": 22, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150233" },
+    { "codigo": "P044", "nombres": "Verónica Inés", "apellidos": "Duarte Montes", "edad": 49, "sexo": "F", "estado_civil": "Divorciada", "ubigeo": "150234" },
+    { "codigo": "P045", "nombres": "Julio César", "apellidos": "Beltrán Risco", "edad": 35, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150235" },
+    { "codigo": "P046", "nombres": "Mabel Liliana", "apellidos": "Acosta Dávila", "edad": 28, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150236" },
+    { "codigo": "P047", "nombres": "Rodrigo Alejandro", "apellidos": "Cisneros Vega", "edad": 31, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150237" },
+    { "codigo": "P048", "nombres": "Tatiana Yanet", "apellidos": "Peralta San", "edad": 43, "sexo": "F", "estado_civil": "Viuda", "ubigeo": "150238" },
+    { "codigo": "P049", "nombres": "Gonzalo Andrés", "apellidos": "Lara Quiroz", "edad": 30, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150239" },
+    { "codigo": "P050", "nombres": "Patricia Noemí", "apellidos": "Salas Orozco", "edad": 25, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150240" },
+    { "codigo": "P051", "nombres": "Álvaro Ismael", "apellidos": "Hurtado Ríos", "edad": 46, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150241" },
+    { "codigo": "P052", "nombres": "Carmen Gloria", "apellidos": "Robles Ugarte", "edad": 52, "sexo": "F", "estado_civil": "Divorciada", "ubigeo": "150242" },
+    { "codigo": "P053", "nombres": "Víctor Raúl", "apellidos": "Tapia Gamarra", "edad": 27, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150243" },
+    { "codigo": "P054", "nombres": "Cecilia Beatriz", "apellidos": "Marín Lozano", "edad": 34, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150244" },
+    { "codigo": "P055", "nombres": "Enrique Alberto", "apellidos": "Barrientos Coa", "edad": 38, "sexo": "M", "estado_civil": "Casado", "ubigeo": "150245" },
+    { "codigo": "P056", "nombres": "Lucía Fernanda", "apellidos": "Carrasco Lima", "edad": 21, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150246" },
+    { "codigo": "P057", "nombres": "Saúl Eduardo", "apellidos": "Pacheco Alva", "edad": 40, "sexo": "M", "estado_civil": "Soltero", "ubigeo": "150247" },
+    { "codigo": "P058", "nombres": "Gabriela Isabel", "apellidos": "Coronel Saenz", "edad": 31, "sexo": "F", "estado_civil": "Casada", "ubigeo": "150248" },
+    { "codigo": "P059", "nombres": "Iván Marcelo", "apellidos": "Delgado Arce", "edad": 44, "sexo": "M", "estado_civil": "Divorciado", "ubigeo": "150249" },
+    { "codigo": "P060", "nombres": "Paula Valentina", "apellidos": "Aguirre Sosa", "edad": 29, "sexo": "F", "estado_civil": "Soltera", "ubigeo": "150250" }
+  ]
+}
